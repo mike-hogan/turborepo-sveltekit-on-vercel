@@ -1,6 +1,6 @@
 # Turborepo Svelte starter
 
-This is an official starter Turborepo.
+This is an official starter Turborepo.  Cloned so I can learn how to get vercel to deploy the two apps.
 
 ## Using this example
 
